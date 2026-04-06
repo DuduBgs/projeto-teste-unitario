@@ -48,3 +48,9 @@ src/
 tests/
  └── userService.test.ts
 ```
+
+## Relatório de Cobertura
+
+Abaixo está o print do relatório de cobertura gerado pelo Jest:
+
+![Relatório de Cobertura](./assets/cobertura-testes.png)
